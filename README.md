@@ -6,7 +6,7 @@ This project aims to create a movie application using React. The application fet
 
 1. Clone this project:
    ```bash
-   git clone https://github.com/redlanterndev/basic-movie-project.git
+   git clone https://github.com/REDLANTERNDEV/basic-movie-project.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -26,7 +26,7 @@ This project aims to create a movie application using React. The application fet
 To run the project in development mode:
 
 ```bash
-npm start
+npm run dev
 ```
 
 You can view the application by opening [http://localhost:5173](http://localhost:5173) in your browser.
