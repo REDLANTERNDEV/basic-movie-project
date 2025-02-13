@@ -16,7 +16,9 @@ This project aims to create a movie application using React. The application fet
    ```bash
    npm install
    ```
-4. Open the `src/services/api.js` file and replace the `API_KEY` variable with your own API key:
+4. Register [TheMovieDB](https://www.themoviedb.org/signup) to get API key
+    
+5. Open the `src/services/api.js` file and replace the `API_KEY` variable with your own API key:
    ```javascript
    const API_KEY = 'YOUR_API_KEY_HERE';
    ```
